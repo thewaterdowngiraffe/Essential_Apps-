@@ -1,0 +1,6 @@
+// Steam
+winget install -e --id Valve.Steam
+
+
+// minecraft
+winget install -e --id Mojang.MinecraftLauncher
