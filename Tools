@@ -1,3 +1,6 @@
 // Search indexing tool for finding stuff on widows 
 // https://www.voidtools.com/downloads/
 winget install -e --id voidtools.Everything
+
+// obsidian 
+winget install -e --id Obsidian.Obsidian
