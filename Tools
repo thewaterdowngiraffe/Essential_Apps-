@@ -4,3 +4,6 @@ winget install -e --id voidtools.Everything
 
 // obsidian 
 winget install -e --id Obsidian.Obsidian
+
+//HWmonitor
+winget install -e --id CPUID.HWMonitor
